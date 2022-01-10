@@ -58,19 +58,27 @@ section{
 .s2color{
         color: orangered;
 }
+
 .s2div1{
         background-color: beige;
         text-align: justify;
         padding: 20px;
         margin-left: 40px;
         margin-right: 20px;
-
-
+        border-left: 4px solid;
+        border-image: linear-gradient(blue, red);
+        border-image-slice: 1;
 }
-.s2div2{
+
+
+
+.s2div2 {
         background-color: beige;
        text-align: justify;
         padding: 20px;
         margin-right: 40px;
         margin-left: 20px;
+        border-left: 4px solid;
+        border-image: linear-gradient(orangered,yellow);
+        border-image-slice: 1;
 }
