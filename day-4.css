@@ -8,6 +8,7 @@
 }
 .hireme{
         background-color: orangered;
+        color: papayawhip;
         border: 2px solid orangered;
         border-radius: 5px;
         padding: 2px;
@@ -23,4 +24,53 @@
 section{
         display: flex;
        
+}
+
+
+
+.d2motor img{
+        border: 2px solid red;
+        height: 250px;
+        width: 200px;
+        margin-left: 50px;
+}
+
+.s2flex{
+        display: flex;
+}
+
+.d2write{
+        margin-left: 60px;
+}
+
+.lprofile {
+        background-color: orangered;
+        color: papayawhip;
+        border: orangered;
+        border-radius: 5px;
+        padding: 5px;
+}
+
+.s2two{
+        display: flex;
+        ;
+}
+.s2color{
+        color: orangered;
+}
+.s2div1{
+        background-color: beige;
+        text-align: justify;
+        padding: 20px;
+        margin-left: 40px;
+        margin-right: 20px;
+
+
+}
+.s2div2{
+        background-color: beige;
+       text-align: justify;
+        padding: 20px;
+        margin-right: 40px;
+        margin-left: 20px;
 }
