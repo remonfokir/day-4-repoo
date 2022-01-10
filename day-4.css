@@ -1,0 +1,26 @@
+.remonspan{
+        color: orange;
+}
+
+.linesoja{
+        font-display: justify;
+        margin-right: 40px;
+}
+.hireme{
+        background-color: orangered;
+        border: 2px solid orangered;
+        border-radius: 5px;
+        padding: 2px;
+        
+}
+.picid img{
+        border: 2px solid red;
+        height: 250px;
+        width: 200px;
+        margin-right: 80px;
+        margin-top: 20px;
+}
+section{
+        display: flex;
+       
+}
